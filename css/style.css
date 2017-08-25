@@ -30,12 +30,12 @@ Version: 1.0.0
 
 ################################################################# */
 /* STYLE */
-@import url(font-awesome.css) screen;
-@import url(bootstrap.css) screen;
-@import url(owl.carousel.css) screen;
-@import url(prettyPhoto.css) screen;
-@import url(animate.min.css) screen;
-@import url(pe-icon-7-stroke.css) screen;
+@import url(https://cdn.rawgit.com/raficoo/klasik/17849052/css/font-awesome.css) screen;
+@import url(https://cdn.rawgit.com/raficoo/klasik/17849052/css/bootstrap.css) screen;
+@import url(https://cdn.rawgit.com/raficoo/klasik/17849052/css/owl.carousel.css) screen;
+@import url(https://cdn.rawgit.com/raficoo/klasik/17849052/css/prettyPhoto.css) screen;
+@import url(https://cdn.rawgit.com/raficoo/klasik/17849052/css/animate.min.css) screen;
+@import url(https://cdn.rawgit.com/raficoo/klasik/17849052/css/pe-icon-7-stroke.css) screen;
 
 /* FONTS */
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,600,600italic,700,800,400italic);
